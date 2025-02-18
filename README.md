@@ -13,4 +13,4 @@
 ![](https://github-profile-trophy.vercel.app/?username=savrock007&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
 ## 💻 TryHackMe Stats
-![](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1486391)
+![](https://tryhackme-badges.s3.amazonaws.com/savrock2.png)
