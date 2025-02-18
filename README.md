@@ -13,4 +13,4 @@
 ![](https://github-profile-trophy.vercel.app/?username=savrock007&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
 TryHackMe Stats:
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1486391" style='border:none;'></iframe>
+!![](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1486391)
