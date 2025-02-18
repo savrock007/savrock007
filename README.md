@@ -12,7 +12,5 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=savrock007&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
----
-[![](https://visitcount.itsvg.in/api?id=savrock007&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+TryHackMe Stats:
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1486391" style='border:none;'></iframe>
